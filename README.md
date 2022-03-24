@@ -1,5 +1,11 @@
 # Calculator
-In-game calculator for MCBDS
+In-game calculator for MCBDS based on [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
+
+## Thanks
+### Third-party Library Used
+- [CMathParser](https://github.com/NTDLS/CMathParser) `LGPL-3.0`
+### Submodule
+- [LiteLoaderSDK(`./SDK/`)](https://github.com/LiteLDev/LiteLoaderSDK) `GPL-3.0`
 
 ## Usage
 ### Installation
