@@ -44,10 +44,8 @@
     <ClCompile Include="Command.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Library Include="third-party\CMathParser\CMathParser.lib">
+    <ClCompile Include="third-party\CMathParser\CMathParser.cpp">
       <Filter>Lib</Filter>
-    </Library>
+    </ClCompile>
   </ItemGroup>
 </Project>
